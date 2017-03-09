@@ -1,0 +1,6 @@
+
+Any python boto code expects from you the following: 
+
+1. Python & Boto is installed (use - sudo apt-get install python-boto)
+2. Boto is configured (~/.boto/) for your AWS account Credentials file
+
